@@ -32,7 +32,7 @@ git diff nombre-rama: me muestra las diferencias del codigo entre las ramas
 
 demo pull request desde github
 
-nuevo!
+nuevo! nuevo
 
 git merge nombre-rama-nueva: hace el merge a la rama en la que estas parado de los cambios de la rama nueva
 
