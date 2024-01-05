@@ -35,3 +35,5 @@ git merge nombre-rama-nueva: hace el merge a la rama en la que estas parado de l
 demo pull request desde github
 
 pull request (pr) es basicamente un pedido para tener tu codigo pulleado en otra rama. Una vez que hacemos el pr, cualquera puede ver nuestro codigo, comentarlo o pedirnos que hagamos algun update
+
+quick test changes
