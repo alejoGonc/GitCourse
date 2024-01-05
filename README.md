@@ -16,3 +16,8 @@ el workflow que se hace cuando trabajo localmente es el siguiente:
     2) git add
     3) git commit
     4) git push 
+
+Que es el branching?
+El branching permite crear nuevas ramas (branches) de codigo adicionales a la master o main. Esto permite crear nuevo codigo que no afecta a la rama principal, ya que son independientes. Los commits que hagas en una de las ramas no afectara a la otra.
+Para que es útil esto? Bueno, cualquier nuevo feature, modificacion o prueba que quieras hacerle al codigo no va a romper al que ya funciona... sos libre para jugar. 
+Tambien sirve para debuggear codigo sin trabajar sobre la rama principal, o para trabajar en equipos, etc.
