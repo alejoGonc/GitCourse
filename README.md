@@ -11,3 +11,8 @@ Comandos Git:
 - push: subir tus commits a un repo remoto como github
 - pull: descargar cambios desde un repo remoto a tu maquina local (el opuesto de push)
 
+el workflow que se hace cuando trabajo localmente es el siguiente:
+    1) Escribo el codigo nuevo
+    2) git add
+    3) git commit
+    4) git push 
