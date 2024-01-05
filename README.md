@@ -29,3 +29,5 @@ git checkout -b nombre-rama-nueva: crea una nueva rama dentro de tu repo y te po
 git checkout nombre-rama: switchea entre ramas
 
 git diff nombre-rama: me muestra las diferencias del codigo entre las ramas
+
+git merge nombre-rama-nueva: hace el merge a la rama en la que estas parado de los cambios de la rama nueva
