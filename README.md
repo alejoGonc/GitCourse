@@ -12,10 +12,10 @@ Comandos Git:
 - pull: descargar cambios desde un repo remoto a tu maquina local (el opuesto de push)
 
 el workflow que se hace cuando trabajo localmente es el siguiente:
-    1) Escribo el codigo nuevo
-    2) git add
-    3) git commit
-    4) git push 
+    - 1 Escribo el codigo nuevo
+    - 2 git add
+    - 3 git commit
+    - 4 git push 
 
 Que es el branching?
 El branching permite crear nuevas ramas (branches) de codigo adicionales a la master o main. Esto permite crear nuevo codigo que no afecta a la rama principal, ya que son independientes. Los commits que hagas en una de las ramas no afectara a la otra.
