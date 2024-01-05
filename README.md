@@ -27,3 +27,5 @@ git branch: muestra las distintas ramas que existen y en cual estas posicionado,
 git checkout -b nombre-rama-nueva: crea una nueva rama dentro de tu repo y te posiciona en ella
 
 git checkout nombre-rama: switchea entre ramas
+
+git diff nombre-rama: me muestra las diferencias del codigo entre las ramas
