@@ -43,6 +43,9 @@ Pull request (pr) es basicamente un pedido para tener tu codigo pulleado en otra
 ---
 Buenas prácticas y otros comentarios:
 
-El commit perfecto: Mientras menos archivos incluya cada commit, mejor. Es importante saber que también se pueden hacer commits de solo algunas partes de los archivos, lo cual me sirve si quiero hacer un commit sobre un tema en específico.
+El commit perfecto:
+
+Mientras menos archivos incluya cada commit, mejor. Es importante saber que también se pueden hacer commits de solo algunas partes de los archivos, lo cual me sirve si quiero hacer un commit sobre un tema en específico.
+
 Esto se puede hacer con: git add -p file-name. Git nos va a preguntar en que parte del archivo queremos hacer el stage y lo va a guardar en el commmit. Después hacemos el push normalmente.
 Es importante ser descriptivos con los mensajes de los commits. Tiene que ser fácil diferenciar qué es distinto, y no debe ser repetitivo con los commits anteriores.
