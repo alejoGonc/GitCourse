@@ -15,8 +15,8 @@ Comandos principales de Git:
 - pull: Descargar cambios desde un repo remoto a tu maquina local (el opuesto de push)
 
 El workflow que se hace cuando trabajas localmente es el siguiente:
-     1) Escribo el codigo nuevo
-     2) git add (hago el stage de los cambios)
+     -1 Escribo el codigo nuevo
+     -2 git add (hago el stage de los cambios)
      3) git commit (confirmo lso cambios)
      4) git push (mando los cambios al host, en mi caso Github)
 
