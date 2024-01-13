@@ -49,3 +49,6 @@ Esto se puede hacer con: git add -p file-name.
 
 Git nos va a preguntar en que parte del archivo queremos hacer el stage y lo va a guardar en el commmit. Después hacemos el push normalmente.
 Es importante ser descriptivos con los mensajes de los commits. Tiene que ser fácil diferenciar qué es distinto, y no debe ser repetitivo con los commits anteriores.
+
+---
+Credits for the Cheatsheet to @Atlassian
