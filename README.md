@@ -1,5 +1,3 @@
-# Repo en proceso!!
-
 # Git course
 
 Este es un curso de Git y Github desde cero.
